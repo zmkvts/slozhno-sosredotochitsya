@@ -7,8 +7,11 @@
   --bg-color: #000028;
   --text-color: #f1b2ce;
   --accent-color: #ff0070;
-  --title-color: #db00ff;
+  --main-title-color: #db00ff;
+  --bg-title-color: #ff0070;
+  --title-color: #ff0070;
   --title-decor-color: #000028;
+  --button-hover-color: rgb(255 0 112 / 0.4);
   --font-regular: 400;
   --font-bold: 700;
   --padding: 10px;
