@@ -19,3 +19,17 @@
   --button-hover-color: rgb(255 0 112 / 0.4);
   background-image: url(../images/cover-image-dark.png);
 }
+
+@media (prefers-color-scheme: dark) {
+  .page.theme_auto {
+    --bg-color: #000028;
+    --text-color: #f1b2ce;
+    --accent-color: #ff0070;
+    --main-title-color: #db00ff;
+    --bg-title-color: #ff0070;
+    --title-color: #ff0070;
+    --title-decor-color: #000028;
+    --button-hover-color: rgb(255 0 112 / 0.4);
+    background-image: url(../images/cover-image-dark.png);
+  }
+}
