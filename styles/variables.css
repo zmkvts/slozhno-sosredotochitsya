@@ -12,6 +12,7 @@
   --title-color: #ff0070;
   --title-decor-color: #000028;
   --button-hover-color: rgb(255 0 112 / 0.4);
+  --header-font-size: clamp(7.25rem, 5.7694rem + 6.3174vw, 9.8125rem);
   --font-regular: 400;
   --font-bold: 700;
   --padding: 10px;
